@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Beautiful Website</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <header>
+        <h1><b>Welcome to My Beautiful Website</b></h1>
+        <nav>
+            <ul>
+                <li><a href="#about"><b>About</b></a></li>
+                <li><a href="#services"><b>Services</b></a></li>
+                <li><a href="#contact"><b>Contact</b></a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We are dedicated to providing the best services to our clients.</p>
+    </section>
+
+    <section id="services">
+        <h2><b>Our Services</b></h2>
+        <ul>
+            <li>Web Design</li>
+            <li>SEO Optimization</li>
+            <li>Content Creation</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p><b>? 2024 My Beautiful Website. All rights reserved.</b></p>
+    </footer>
+</body>
+</html>
